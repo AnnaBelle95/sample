@@ -1,0 +1,20 @@
+{
+  "siteTitle": "Nur Afiqah",
+  "siteDescription": "My awesome personal site, i'm a Nur Afiqah!",
+  "avatar": "/img/avatar.jpg",
+  "background": "/img/background.jpg",
+  "description": "Hey I'm Nur Afiqah. Thanks for visiting my personal site!",
+  "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf"",
+  "icons": [
+    {"icon": "page", "link": "/resume"},
+    {"icon": "social-github", "link": "/github"},
+    {"icon": "mail", "link": "/email"},
+    {"icon": "social-linkedin", "link": "/linkedin"},
+    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"},
+	{"icon": "home", "link": "/harrypotter"}
+  ],
+  "projects": [
+    {"title":"Pinterest", "link":"/pinterest"},
+    {"title":"JSON Configurable Site", "link":"/repo"}
+  ]
+}
