@@ -4,7 +4,7 @@
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
   "description": "Hey I'm Nur Afiqah. Thanks for visiting my personal site!",
-  "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf"",
+  "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf",
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
