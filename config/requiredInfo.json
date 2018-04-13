@@ -10,8 +10,7 @@
     {"icon": "social-github", "link": "/github"},
     {"icon": "mail", "link": "/email"},
     {"icon": "social-linkedin", "link": "/linkedin"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"},
-	{"icon": "home", "link": "/harrypotter"}
+    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"}
   ],
   "projects": [
     {"title":"Pinterest", "link":"/pinterest"},
